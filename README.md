@@ -30,4 +30,4 @@ If no news is found, a custom “Not Found” illustration is displayed.
 ## ⚙️ Setup
 1. Clone this repository:
    ```bash
-   git clone https://github.com/Dina-Safan/news-website.git
+  https://github.com/Dina-Safan/NewsWebSite.git
